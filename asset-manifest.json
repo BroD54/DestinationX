@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DestinationX/static/css/main.6ded6ce1.css",
+    "main.js": "/DestinationX/static/js/main.6e0e763a.js",
+    "static/media/world-map.jpg": "/DestinationX/static/media/world-map.9ed55fc0266f75179d03.jpg",
+    "index.html": "/DestinationX/index.html",
+    "main.6ded6ce1.css.map": "/DestinationX/static/css/main.6ded6ce1.css.map",
+    "main.6e0e763a.js.map": "/DestinationX/static/js/main.6e0e763a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ded6ce1.css",
+    "static/js/main.6e0e763a.js"
+  ]
+}
